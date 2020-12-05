@@ -13,7 +13,7 @@
    version="1.0"
    viewBox="0 0 144 126"
    sodipodi:docname="tasks.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata719">
     <rdf:RDF>
@@ -22,11 +22,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#e6e6e6"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -35,16 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="962"
      id="namedview717"
      showgrid="false"
-     inkscape:zoom="3.3194445"
-     inkscape:cx="81.290634"
-     inkscape:cy="46.365688"
+     inkscape:zoom="6.638889"
+     inkscape:cx="73.735384"
+     inkscape:cy="61.073124"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="36"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true" />
   <defs
      id="null">
     <style
@@ -287,7 +290,7 @@
        y="67"
        width="2"
        height="13"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-9-2-7"
        class="ColorScheme-ButtonHover"
@@ -295,7 +298,7 @@
        y="67"
        width="1"
        height="13"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4951-3-2-72"
        x="1"
@@ -313,7 +316,7 @@
        y="67"
        width="2"
        height="13"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-5-50"
        class="ColorScheme-ButtonHover"
@@ -321,7 +324,7 @@
        y="67"
        width="1"
        height="13"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4951-5-6"
        x="34"
@@ -339,7 +342,7 @@
        y="67"
        width="26"
        height="13"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="north-hover-top">
@@ -350,7 +353,7 @@
        y="65"
        width="26"
        height="2"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-2-4"
        class="ColorScheme-ButtonHover"
@@ -358,7 +361,7 @@
        y="64"
        width="26"
        height="1"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="north-hover-topleft">
@@ -376,7 +379,7 @@
        y="64"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="north-hover-topright">
@@ -394,7 +397,7 @@
        y="64"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="north-hover-bottom">
@@ -405,7 +408,7 @@
        y="80"
        width="26"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-0-5-05"
        class="ColorScheme-ButtonHover"
@@ -413,7 +416,7 @@
        y="82"
        width="26"
        height="1"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="north-hover-bottomleft">
@@ -431,11 +434,11 @@
        y="80"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
        id="path3643-64"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 2,80 0,2 0,1 3,0 0,-1 -2,0 0,-2 z" />
   </g>
   <g
@@ -454,11 +457,11 @@
        y="80"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
        id="path3643-6-2"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 31,83 2,0 1,0 0,-3 -1,0 0,2 -2,0 z" />
   </g>
   <g
@@ -821,7 +824,7 @@
        y="67"
        width="2"
        height="13"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-9-2-7-4"
        class="ColorScheme-ButtonHover"
@@ -829,7 +832,7 @@
        y="67"
        width="1"
        height="13"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4951-3-2-72-8"
        x="37"
@@ -847,7 +850,7 @@
        y="67"
        width="2"
        height="13"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-5-50-5"
        class="ColorScheme-ButtonHover"
@@ -855,7 +858,7 @@
        y="67"
        width="1"
        height="13"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4951-5-6-1"
        x="70"
@@ -873,7 +876,7 @@
        y="67"
        width="26"
        height="13"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-bottom">
@@ -884,7 +887,7 @@
        y="80"
        width="26"
        height="2"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-2-4-8"
        class="ColorScheme-ButtonHover"
@@ -892,7 +895,7 @@
        y="82"
        width="26"
        height="1"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-bottomleft">
@@ -910,7 +913,7 @@
        y="80"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-bottomright">
@@ -928,7 +931,7 @@
        y="80"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-top">
@@ -939,7 +942,7 @@
        y="65"
        width="26"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-0-5-05-0"
        class="ColorScheme-ButtonHover"
@@ -947,7 +950,7 @@
        y="64"
        width="26"
        height="1"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-topleft">
@@ -965,11 +968,11 @@
        y="65"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
        id="path3643-64-2"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 38,67 0,-2 0,-1 3,0 0,1 -2,0 0,2 z" />
   </g>
   <g
@@ -988,11 +991,11 @@
        y="65"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
        id="path3643-6-2-6"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 67,64 2,0 1,0 0,3 -1,0 0,-2 -2,0 z" />
   </g>
   <g
@@ -1360,7 +1363,7 @@
        y="68"
        width="2"
        height="11"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-9-2-9-0-6-5"
        class="ColorScheme-ButtonHover"
@@ -1368,7 +1371,7 @@
        y="68"
        width="1"
        height="11"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-hover-right">
@@ -1379,7 +1382,7 @@
        y="68"
        width="2"
        height="11"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-5-5-6-8-5"
        class="ColorScheme-ButtonHover"
@@ -1387,7 +1390,7 @@
        y="68"
        width="1"
        height="11"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-hover-center">
@@ -1398,7 +1401,7 @@
        y="68"
        width="28"
        height="11"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-hover-bottom">
@@ -1416,7 +1419,7 @@
        y="79"
        width="28"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-2-9-0-6-2"
        class="ColorScheme-ButtonHover"
@@ -1424,7 +1427,7 @@
        y="81"
        width="28"
        height="1"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-hover-topright">
@@ -1442,7 +1445,7 @@
        y="65"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-hover-bottomright">
@@ -1453,7 +1456,7 @@
        y="79"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-0"
        x="104"
@@ -1471,7 +1474,7 @@
        y="66"
        width="28"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-0-5-7-0-9-5"
        class="ColorScheme-ButtonHover"
@@ -1479,7 +1482,7 @@
        y="65"
        width="28"
        height="1"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-9"
        x="76"
@@ -1504,11 +1507,11 @@
        y="66"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
        id="path3643-1-0-7-4"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 73,68 0,-2 0,-1 3,0 0,1 -2,0 0,2 z" />
   </g>
   <g
@@ -1527,11 +1530,11 @@
        y="79"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
        id="path3643-6-3-5-7-5"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 76,82 -2,0 -1,0 0,-3 1,0 0,2 2,0 z" />
   </g>
   <g
@@ -1899,7 +1902,7 @@
        y="68"
        width="2"
        height="11"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-9-2-9-0-6-5-6"
        class="ColorScheme-ButtonHover"
@@ -1907,7 +1910,7 @@
        y="68"
        width="1"
        height="11"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-left">
@@ -1918,7 +1921,7 @@
        y="68"
        width="2"
        height="11"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-5-5-6-8-5-7"
        class="ColorScheme-ButtonHover"
@@ -1926,7 +1929,7 @@
        y="68"
        width="1"
        height="11"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-center">
@@ -1937,7 +1940,7 @@
        y="68"
        width="28"
        height="11"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-bottom">
@@ -1955,7 +1958,7 @@
        y="79"
        width="28"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-2-9-0-6-2-0"
        class="ColorScheme-ButtonHover"
@@ -1963,7 +1966,7 @@
        y="81"
        width="28"
        height="1"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-topleft">
@@ -1981,7 +1984,7 @@
        y="65"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-bottomleft">
@@ -1992,7 +1995,7 @@
        y="79"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-0-1"
        x="109.214"
@@ -2010,7 +2013,7 @@
        y="66"
        width="28"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-0-5-7-0-9-5-1"
        class="ColorScheme-ButtonHover"
@@ -2018,7 +2021,7 @@
        y="65"
        width="28"
        height="1"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-9-6"
        x="112"
@@ -2043,11 +2046,11 @@
        y="66"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
        id="path3643-1-0-7-4-9"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 143,68 0,-2 0,-1 -3,0 0,1 2,0 0,2 z" />
   </g>
   <g
@@ -2066,11 +2069,11 @@
        y="79"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
        id="path3643-6-3-5-7-5-7"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 140,82 2,0 1,0 0,-3 -1,0 0,2 -2,0 z" />
   </g>
   <g

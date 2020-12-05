@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -12,7 +10,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.5 (6c0c36ef5a, 2020-05-15, custom)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    width="17"
    height="57"
    sodipodi:docname="lineedit.svg"
@@ -22,7 +20,7 @@
    inkscape:export-ydpi="90"
    version="1.0">
   <sodipodi:namedview
-     inkscape:window-height="1000"
+     inkscape:window-height="962"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -33,11 +31,11 @@
      bordercolor="#666666"
      pagecolor="#3a3a3a"
      id="base"
-     inkscape:zoom="10.023549"
-     inkscape:cx="149.65548"
-     inkscape:cy="-25.085796"
+     inkscape:zoom="3.5438597"
+     inkscape:cx="81.868249"
+     inkscape:cy="52.780478"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="36"
      inkscape:current-layer="svg2"
      showgrid="true"
      showguides="true"
@@ -50,7 +48,8 @@
      inkscape:object-nodes="true"
      inkscape:window-maximized="1"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-nodes="false">
+     inkscape:snap-nodes="false"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid5592"
@@ -340,7 +339,7 @@
      id="hint-focus-over-base"
      style="opacity:0.98999999;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <path
-     style="color:#3daee6;opacity:0.5;fill:#ffffff;stroke-width:0.86602437;fill-opacity:1"
+     style="color:#3daee6;opacity:0.3;fill:#323232;stroke-width:0.86602437;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 51.000032,64.100072 v 35.999918 h 48 V 64.100072 Z"
      class="ColorScheme-Highlight"
@@ -350,7 +349,7 @@
      id="hover-topleft"
      style="opacity:1">
     <path
-       style="color:#3daee6;opacity:0.5;fill:#ffffff;stroke-width:1.25000024;fill-opacity:1"
+       style="color:#3daee6;opacity:0.3;fill:#323232;stroke-width:1.25000024;fill-opacity:1"
        d="m 190.14,824.86 c -2.77,0 -5,2.23 -5,5 h 5 z"
        id="path5201"
        inkscape:connector-curvature="0" />
@@ -372,7 +371,7 @@
      id="hover-top"
      style="opacity:1">
     <path
-       style="color:#3daee6;opacity:0.5;fill:#ffffff;fill-opacity:1"
+       style="color:#3daee6;opacity:0.3;fill:#323232;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path13-26"
        d="m 190.14,825.86 v 4 h 131 v -4 z"
@@ -439,7 +438,7 @@
      width="100%"
      height="100%" />
   <path
-     style="color:#3daee6;opacity:0.5;fill:#ffffff;stroke-width:0.8660242;fill-opacity:1"
+     style="color:#3daee6;opacity:0.3;fill:#323232;stroke-width:0.8660242;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 127.00004,64.00007 v 35.999922 h 48 V 64.00007 Z"
      class="ColorScheme-Highlight"
@@ -449,7 +448,7 @@
      id="focus-topleft"
      style="opacity:1">
     <path
-       style="color:#3daee6;opacity:0.5;fill:#ffffff;stroke-width:1.25000024;fill-opacity:1"
+       style="color:#3daee6;opacity:0.3;fill:#323232;stroke-width:1.25000024;fill-opacity:1"
        d="m 190.14,824.86 c -2.77,0 -5,2.23 -5,5 h 5 z"
        id="path5201-5"
        inkscape:connector-curvature="0" />
@@ -471,7 +470,7 @@
      id="focus-top"
      style="opacity:1">
     <path
-       style="color:#3daee6;opacity:0.5;fill:#ffffff;fill-opacity:1"
+       style="color:#3daee6;opacity:0.3;fill:#323232;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path13-26-7"
        d="m 190.14,825.86 v 4 h 131 v -4 z"
@@ -497,7 +496,7 @@
        inkscape:connector-curvature="0"
        id="path1691"
        d="m 190.14,824.86 c -2.77,0 -5,2.23 -5,5 h 5 z"
-       style="color:#3daee6;opacity:0.5;fill:#ffffff;stroke-width:1.25000024;fill-opacity:1" />
+       style="color:#3daee6;opacity:0.3;fill:#323232;stroke-width:1.25000024;fill-opacity:1" />
     <path
        id="path1693"
        transform="translate(81.139996,758.86)"
@@ -520,7 +519,7 @@
        d="m 190.14,825.86 v 4 h 131 v -4 z"
        id="path1675"
        inkscape:connector-curvature="0"
-       style="color:#3daee6;opacity:0.5;fill:#ffffff;fill-opacity:1" />
+       style="color:#3daee6;opacity:0.3;fill:#323232;fill-opacity:1" />
     <path
        style="color:#3daee6;opacity:1;fill:none;stroke-width:0.70711237"
        inkscape:connector-curvature="0"
@@ -543,7 +542,7 @@
        d="m 190.14,825.86 v 4 h 131 v -4 z"
        id="path1683"
        inkscape:connector-curvature="0"
-       style="color:#3daee6;opacity:0.5;fill:#ffffff;fill-opacity:1" />
+       style="color:#3daee6;opacity:0.3;fill:#323232;fill-opacity:1" />
     <path
        style="color:#3daee6;opacity:1;fill:none;stroke-width:0.70711237"
        inkscape:connector-curvature="0"
@@ -566,7 +565,7 @@
        d="m 190.14,825.86 v 4 h 131 v -4 z"
        id="path1657"
        inkscape:connector-curvature="0"
-       style="color:#3daee6;opacity:0.5;fill:#ffffff;fill-opacity:1" />
+       style="color:#3daee6;opacity:0.3;fill:#323232;fill-opacity:1" />
     <path
        style="color:#3daee6;opacity:1;fill:none;stroke-width:0.70711237"
        inkscape:connector-curvature="0"
@@ -588,7 +587,7 @@
        inkscape:connector-curvature="0"
        id="path1665"
        d="m 190.14,824.86 c -2.77,0 -5,2.23 -5,5 h 5 z"
-       style="color:#3daee6;opacity:0.5;fill:#ffffff;stroke-width:1.25000024;fill-opacity:1" />
+       style="color:#3daee6;opacity:0.3;fill:#323232;stroke-width:1.25000024;fill-opacity:1" />
     <path
        id="path1667"
        transform="translate(81.139996,758.86)"
@@ -610,7 +609,7 @@
        inkscape:connector-curvature="0"
        id="path1647"
        d="m 190.14,824.86 c -2.77,0 -5,2.23 -5,5 h 5 z"
-       style="color:#3daee6;opacity:0.5;fill:#ffffff;stroke-width:1.25000024;fill-opacity:1" />
+       style="color:#3daee6;opacity:0.3;fill:#323232;stroke-width:1.25000024;fill-opacity:1" />
     <path
        id="path1649"
        transform="translate(81.139996,758.86)"
